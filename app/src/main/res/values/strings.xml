@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Collection</string>
+    <string-array name="tutorials_array">
+        <item>Counter App</item>
+        <item>Calculator</item>
+        <item>Find My Age</item>
+        <item>Find the most beautiful Country</item>
+        <item>How to use Picasso</item>
+        <item>How to use Picasso to load image offline</item>
+        <item>My Bio App</item>
+        <item>Recycler View</item>
+    </string-array>
+</resources>
